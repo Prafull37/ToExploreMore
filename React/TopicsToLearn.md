@@ -10,3 +10,9 @@
 - [X] Closure
 - [X] async-await
 - [ ] Debounce and Throttling 
+
+
+
+## search
+tricky callback
+tricky js
