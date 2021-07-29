@@ -51,3 +51,7 @@
 |[Redux-Rerendering](https://spin.atomicobject.com/2018/04/02/redux-rerendering/) | ❌ |
 
 
+
+# [Google Search on useCallback](https://www.google.com/search?q=usecallback&client=firefox-b-d&sxsrf=ALeKk00ulWcQTsStfEQpCKkGK5wUZc2qJw%3A1627043709534&ei=fbf6YO71H5KP4-EP2-WQSA&oq=usecallback&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBwgAELEDEEMyBQgAEJECMgUIABCRAjIECAAQQzIECAAQQzICCAAyBAgAEEMyBAgAEEMyAggAOgcIABBHELADOgcIABCwAxBDOg4ILhCxAxCDARDHARCjAjoICAAQsQMQgwE6BQgAELEDOgQIABAKSgQIQRgAUJcTWPcsYIIvaAFwAngAgAG9AogBhxSSAQcwLjUuNi4xmAEAoAEBqgEHZ3dzLXdpesgBCsABAQ&sclient=gws-wiz&ved=0ahUKEwiuqNySmvnxAhWSxzgGHdsyBAkQ4dUDCA4&uact=5)
+
+Click on above heading 
