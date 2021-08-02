@@ -16,11 +16,11 @@
 | [Benchmark](https://medium.com/@dan_abramov/this-benchmark-is-indeed-flawed-c3d6b5b6f97f) | ❌ |
 | [React-Key](https://kentcdodds.com/blog/understanding-reacts-key-prop) | ✔️ |
 | [Async SetState](https://github.com/facebook/react/issues/11527)- [Dan's Tweet](https://twitter.com/dan_abramov/status/959507572951797761) | ❌ |
-| [Event-Pooling/persist](https://medium.com/@brunogarciagonzalez/reactjs-events-exploration-a295505016f1)  - [GitHub](https://github.com/brunogarciagonzalez/React-Events-Exploration-Demo) | ✔️🔄❌📖 🗺 |
+| [Event-Pooling/persist](https://medium.com/@brunogarciagonzalez/reactjs-events-exploration-a295505016f1)  - [GitHub](https://github.com/brunogarciagonzalez/React-Events-Exploration-Demo) | ❌ |
 | [React getter and Setters](https://javascriptbit.com/react-design-patterns-prop-getters-render-props/) | ❌ |
 | [Perform Debounce in React](https://stackoverflow.com/questions/23123138/perform-debounce-in-react-js) | ❌ |
 | [Perform Debounce in React](https://stackoverflow.com/questions/23123138/perform-debounce-in-react-js) | ❌ |
-| [Avoid Nesting Closure](https://kentcdodds.com/blog/why-i-avoid-nesting-closures) | ❌ |
+| [Avoid Nesting Closure](https://kentcdodds.com/blog/why-i-avoid-nesting-closures) | ✔️ |
 | [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react) | ❌ |
 
 ## Hooks
