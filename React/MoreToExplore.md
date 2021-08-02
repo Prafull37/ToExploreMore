@@ -21,6 +21,7 @@
 | [Perform Debounce in React](https://stackoverflow.com/questions/23123138/perform-debounce-in-react-js) | ❌ |
 | [Perform Debounce in React](https://stackoverflow.com/questions/23123138/perform-debounce-in-react-js) | ❌ |
 | [Avoid Nesting Closure](https://kentcdodds.com/blog/why-i-avoid-nesting-closures) | ❌ |
+| [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react) | ❌ |
 
 ## Hooks
 
@@ -47,8 +48,8 @@
 | [Provide more way to bailout-useState and useContext](https://github.com/facebook/react/issues/14110) | ❌ | " |
 
 
-
 ##  Redux /React-Redux
+
 | Title | Status | 
 | ------------- |:-------------:|
 |[Idomatic-redux-selectors](https://blog.isquaredsoftware.com/2017/12/idiomatic-redux-using-reselect-selectors/) | ❌ |
