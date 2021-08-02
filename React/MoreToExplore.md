@@ -20,6 +20,7 @@
 | [React getter and Setters](https://javascriptbit.com/react-design-patterns-prop-getters-render-props/) | ❌ |
 | [Perform Debounce in React](https://stackoverflow.com/questions/23123138/perform-debounce-in-react-js) | ❌ |
 | [Perform Debounce in React](https://stackoverflow.com/questions/23123138/perform-debounce-in-react-js) | ❌ |
+| [Avoid Nesting Closure](https://kentcdodds.com/blog/why-i-avoid-nesting-closures) | ❌ |
 
 ## Hooks
 
