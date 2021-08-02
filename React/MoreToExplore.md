@@ -38,6 +38,13 @@
 | [React useEffect vs useLayoutEffect](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect) | ❌ | " |
 | [Don't overuse of React](https://dmitripavlutin.com/dont-overuse-react-usecallback/) | ✔️ |useCallback |
 | [warning Mjackson's Tweet on Context ](https://twitter.com/mjackson/status/1195495535483817984) | ✔️ | useContext|
+| [Context vs Redux](https://daveceddia.com/context-api-vs-redux/) | 🔄 |  "|
+| [context behaciour of redux](dsoftware.com/2018/11/react-redux-history-implementation/) | 🔄 | "|
+| [React Context for State ](https://egghead.io/courses/react-context-for-state-management) |❌ |" |
+| [Context-Bailout Options Demo]( https://codesandbox.io/s/00yn9yqzjw?file=/src/index.js) | ❌| " |
+| [Render prevention fro useMemo and useContext](https://github.com/facebook/react/issues/15156) | ❌ |" |
+| [Provide more way to bailout-useState and useContext](https://github.com/facebook/react/issues/14110) | ❌ | " |
+
 
 
 ##  Redux /React-Redux
@@ -49,8 +56,13 @@
 |[React-redux Performance](https://react-redux.js.org/using-react-redux/connect-mapstate#mapstatetoprops-and-performance) | ❌ |
 |[Redux-Rerendering](https://spin.atomicobject.com/2018/04/02/redux-rerendering/) | ❌ |
 |[Redux-Rerendering](https://spin.atomicobject.com/2018/04/02/redux-rerendering/) | ❌ |
-
-
+| [What is reducer](https://daveceddia.com/what-is-a-reducer/) | ❌ |
+| [React-Redux Immutability Guideline](https://daveceddia.com/react-redux-immutability-guide/) | ❌ |
+| [Redux not dead yet](https://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/) | ❌ |
+| [Underrated middleware in Redux](https://medium.com/@jacobp100/you-arent-using-redux-middleware-enough-94ffe991e6) | ❌ |
+| [Context,Subscruption and hooks](https://github.com/reduxjs/react-redux/issues/1177) | ❌ |
+| [History of React-Redux](https://blog.isquaredsoftware.com/2018/11/react-redux-history-implementation/) | ❌ |
+| [Context,Subscruption and hooks](https://github.com/reduxjs/react-redux/issues/1177) | ❌ |
 
 # [Google Search on useCallback](https://www.google.com/search?q=usecallback&client=firefox-b-d&sxsrf=ALeKk00ulWcQTsStfEQpCKkGK5wUZc2qJw%3A1627043709534&ei=fbf6YO71H5KP4-EP2-WQSA&oq=usecallback&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBwgAELEDEEMyBQgAEJECMgUIABCRAjIECAAQQzIECAAQQzICCAAyBAgAEEMyBAgAEEMyAggAOgcIABBHELADOgcIABCwAxBDOg4ILhCxAxCDARDHARCjAjoICAAQsQMQgwE6BQgAELEDOgQIABAKSgQIQRgAUJcTWPcsYIIvaAFwAngAgAG9AogBhxSSAQcwLjUuNi4xmAEAoAEBqgEHZ3dzLXdpesgBCsABAQ&sclient=gws-wiz&ved=0ahUKEwiuqNySmvnxAhWSxzgGHdsyBAkQ4dUDCA4&uact=5)
 
