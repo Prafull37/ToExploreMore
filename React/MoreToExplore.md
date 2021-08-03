@@ -21,7 +21,9 @@
 | [Perform Debounce in React](https://stackoverflow.com/questions/23123138/perform-debounce-in-react-js) | ❌ |
 | [Perform Debounce in React](https://stackoverflow.com/questions/23123138/perform-debounce-in-react-js) | ❌ |
 | [Avoid Nesting Closure](https://kentcdodds.com/blog/why-i-avoid-nesting-closures) | ✔️ |
-| [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react) | ❌ |
+| [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react) | ✔️ |
+| [ES6 and Beyond-Paypal workshop](https://www.youtube.com/playlist?list=PLV5CVI1eNcJgUA2ziIML3-7sMbS7utie5) | ❌ |
+
 
 ## Hooks
 
