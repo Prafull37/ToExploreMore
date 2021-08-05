@@ -48,6 +48,12 @@
 | [Context-Bailout Options Demo]( https://codesandbox.io/s/00yn9yqzjw?file=/src/index.js) | ❌| " |
 | [Render prevention fro useMemo and useContext](https://github.com/facebook/react/issues/15156) | ❌ |" |
 | [Provide more way to bailout-useState and useContext](https://github.com/facebook/react/issues/14110) | ❌ | " |
+| [UseLayoutEffect-UseImperativeHandle-UseDebug](https://stackoverflow.com/questions/57030945/use-case-for-uselayouteffect-usestate-vs-usememo) | ✔️ | useLayoutEffect |
+| [UseLayout-vs-useEffect](https://blog.logrocket.com/useeffect-vs-uselayouteffect/) | ❌|"|
+| [UseLayout-vs-useEffect KCD](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect) | ❌|"|
+| [useLayoutEffect-Hooks Cheatseat](https://react-hooks-cheatsheet.com/uselayoutEffect) | ✔️ |"|
+| Dan's Layout [here](https://twitter.com/dan_abramov/status/1096916868026245121)| ✔️ |"|
+
 
 
 ##  Redux /React-Redux
