@@ -27,8 +27,8 @@
 
 ## Hooks
 
-| Title | Status | Hook |
-| ------------- |:-------------:|:-------------:|
+| Title | Status | Hook |Remarks |
+| ------------- |:-------------:|:-------------:|:-------------:|
 | [Hooks Glance(React CodeBase)](https://github.com/facebook/react/blob/master/packages/react-reconciler/src/ReactFiberHooks.new.js) | ❌| - |
 | [Function vs Class](https://overreacted.io/how-are-function-components-different-from-classes/) | ❌ | - |
 | [Hooks on Call Order](https://overreacted.io/why-do-hooks-rely-on-call-order/) | ❌ | - |
@@ -49,10 +49,11 @@
 | [Render prevention fro useMemo and useContext](https://github.com/facebook/react/issues/15156) | ❌ |" |
 | [Provide more way to bailout-useState and useContext](https://github.com/facebook/react/issues/14110) | ❌ | " |
 | [UseLayoutEffect-UseImperativeHandle-UseDebug](https://stackoverflow.com/questions/57030945/use-case-for-uselayouteffect-usestate-vs-usememo) | ✔️ | useLayoutEffect |
-| [UseLayout-vs-useEffect](https://blog.logrocket.com/useeffect-vs-uselayouteffect/) | ❌|"|
-| [UseLayout-vs-useEffect KCD](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect) | ❌|"|
+| [UseLayout-vs-useEffect](https://blog.logrocket.com/useeffect-vs-uselayouteffect/) | ✔️|"| Reread it will help |
+| [UseLayout-vs-useEffect KCD](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect) |✔️|"|
 | [useLayoutEffect-Hooks Cheatseat](https://react-hooks-cheatsheet.com/uselayoutEffect) | ✔️ |"|
 | Dan's Layout [here](https://twitter.com/dan_abramov/status/1096916868026245121)| ✔️ |"|
+| UseLayoutEffect [example](https://codesandbox.io/s/pensive-vaughan-x3jbb?file=/src/App.js:348-353)| ✔️ |"|
 
 
 
