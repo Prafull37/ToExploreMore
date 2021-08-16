@@ -25,10 +25,15 @@
 | [ES6 and Beyond-Paypal workshop](https://www.youtube.com/playlist?list=PLV5CVI1eNcJgUA2ziIML3-7sMbS7utie5) | ❌ |
 
 
+
 ## Hooks
 
 | Title | Status | Hook |Remarks |
 | ------------- |:-------------:|:-------------:|:-------------:|
+| [Fun with Hooks](https://www.youtube.com/watch?v=1jWS7cCuUXw) | ❌ |
+| [Refactor React](https://egghead.io/courses/simplify-react-apps-with-react-hooks) | ❌ |
+| [KCD hooks-playlist](kcd.im/hooks-playlist) | ❌ |
+| [Hooks Pitfalls KCD](https://kentcdodds.com/blog/react-hooks-pitfalls)|✔️ |
 | [Hooks Glance(React CodeBase)](https://github.com/facebook/react/blob/master/packages/react-reconciler/src/ReactFiberHooks.new.js) | ❌| - |
 | [Function vs Class](https://overreacted.io/how-are-function-components-different-from-classes/) | ❌ | - |
 | [Hooks on Call Order](https://overreacted.io/why-do-hooks-rely-on-call-order/) | ❌ | - |
@@ -57,6 +62,8 @@
 
 
 
+
+
 ##  Redux /React-Redux
 
 | Title | Status | 
@@ -73,7 +80,16 @@
 | [Underrated middleware in Redux](https://medium.com/@jacobp100/you-arent-using-redux-middleware-enough-94ffe991e6) | ❌ |
 | [Context,Subscruption and hooks](https://github.com/reduxjs/react-redux/issues/1177) | ❌ |
 | [History of React-Redux](https://blog.isquaredsoftware.com/2018/11/react-redux-history-implementation/) | ❌ |
-| [Context,Subscruption and hooks](https://github.com/reduxjs/react-redux/issues/1177) | ❌ |
+| [Context,Subscription and hooks](https://github.com/reduxjs/react-redux/issues/1177) | ❌ |
+
+
+## Testing
+
+| Title | Status |
+| ------------- |:-------------:|
+| [KCD what happens to my test](https://kentcdodds.com/blog/react-hooks-whats-going-to-happen-to-my-tests) | ❌ |
+| [Avoid Implementation Details](https://kentcdodds.com/blog/testing-implementation-details) | ❌ |
+| [Avoid Test User](https://kentcdodds.com/blog/avoid-the-test-user) | ❌ |
 
 # [Google Search on useCallback](https://www.google.com/search?q=usecallback&client=firefox-b-d&sxsrf=ALeKk00ulWcQTsStfEQpCKkGK5wUZc2qJw%3A1627043709534&ei=fbf6YO71H5KP4-EP2-WQSA&oq=usecallback&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBwgAELEDEEMyBQgAEJECMgUIABCRAjIECAAQQzIECAAQQzICCAAyBAgAEEMyBAgAEEMyAggAOgcIABBHELADOgcIABCwAxBDOg4ILhCxAxCDARDHARCjAjoICAAQsQMQgwE6BQgAELEDOgQIABAKSgQIQRgAUJcTWPcsYIIvaAFwAngAgAG9AogBhxSSAQcwLjUuNi4xmAEAoAEBqgEHZ3dzLXdpesgBCsABAQ&sclient=gws-wiz&ved=0ahUKEwiuqNySmvnxAhWSxzgGHdsyBAkQ4dUDCA4&uact=5)
 
