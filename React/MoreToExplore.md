@@ -23,6 +23,8 @@
 | [Avoid Nesting Closure](https://kentcdodds.com/blog/why-i-avoid-nesting-closures) | ✔️ |
 | [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react) | ✔️ |
 | [ES6 and Beyond-Paypal workshop](https://www.youtube.com/playlist?list=PLV5CVI1eNcJgUA2ziIML3-7sMbS7utie5) | ❌ |
+| [Simplify Components on AUthetication](https://kentcdodds.com/blog/authentication-in-react-applications) | ❌ |
+| [React Securtiy Course free](https://courses.reactsecurity.io/courses/react-security-fundamentals-downloadable) | ❌ |
 
 
 
@@ -90,6 +92,7 @@
 | [KCD what happens to my test](https://kentcdodds.com/blog/react-hooks-whats-going-to-happen-to-my-tests) | ❌ |
 | [Avoid Implementation Details](https://kentcdodds.com/blog/testing-implementation-details) | ❌ |
 | [Avoid Test User](https://kentcdodds.com/blog/avoid-the-test-user) | ❌ |
+| [The Merits of Mocking](https://kentcdodds.com/blog/the-merits-of-mocking) | ❌ |
 
 # [Google Search on useCallback](https://www.google.com/search?q=usecallback&client=firefox-b-d&sxsrf=ALeKk00ulWcQTsStfEQpCKkGK5wUZc2qJw%3A1627043709534&ei=fbf6YO71H5KP4-EP2-WQSA&oq=usecallback&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBwgAELEDEEMyBQgAEJECMgUIABCRAjIECAAQQzIECAAQQzICCAAyBAgAEEMyBAgAEEMyAggAOgcIABBHELADOgcIABCwAxBDOg4ILhCxAxCDARDHARCjAjoICAAQsQMQgwE6BQgAELEDOgQIABAKSgQIQRgAUJcTWPcsYIIvaAFwAngAgAG9AogBhxSSAQcwLjUuNi4xmAEAoAEBqgEHZ3dzLXdpesgBCsABAQ&sclient=gws-wiz&ved=0ahUKEwiuqNySmvnxAhWSxzgGHdsyBAkQ4dUDCA4&uact=5)
 
