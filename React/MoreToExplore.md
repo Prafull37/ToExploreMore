@@ -26,6 +26,7 @@
 | [Simplify Components on AUthetication](https://kentcdodds.com/blog/authentication-in-react-applications) | ❌ |
 | [React Securtiy Course free](https://courses.reactsecurity.io/courses/react-security-fundamentals-downloadable) | ❌ |
 | React Children API and Compound Components | ❌ |
+| [Compound Components by Ryan Florence](https://www.youtube.com/watch?v=hEGg-3pIHlE)| ❌ |
 
 
 
