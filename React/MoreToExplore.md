@@ -32,6 +32,7 @@
 | [Prop Collection By Kent's Doods on Egghead](https://egghead.io/lessons/react-use-prop-collections-with-render-props)| 🔄 |
 | [Prop Getter By Kent's Doods on Egghead](https://egghead.io/lessons/react-use-prop-getters-with-render-props)| 🔄 |
 | [Prop Collection](https://github.com/manjula-dube/react-advanced-patterns/tree/master/prop-collection)| 🔄 |
+| [Advanced Patterns in React By Manjula Dube](https://www.youtube.com/watch?v=lvndTUDNspw)| 🔄 |
 
 
 
