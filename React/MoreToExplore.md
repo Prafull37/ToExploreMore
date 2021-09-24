@@ -27,6 +27,10 @@
 | [React Securtiy Course free](https://courses.reactsecurity.io/courses/react-security-fundamentals-downloadable) | ❌ |
 | React Children API and Compound Components | ❌ |
 | [Compound Components by Ryan Florence](https://www.youtube.com/watch?v=hEGg-3pIHlE)| ❌ |
+| [Prop Getter](https://javascriptbit.com/react-design-patterns-prop-getters-render-props/)| 🔄 |
+| [Prop Getter By Kent](https://kentcdodds.com/blog/how-to-give-rendering-control-to-users-with-prop-getters)| 🔄 |
+| [Prop Collection By Kent's Doods on Egghead](https://egghead.io/lessons/react-use-prop-collections-with-render-props)| 🔄 |
+| [Prop Getter By Kent's Doods on Egghead](https://egghead.io/lessons/react-use-prop-getters-with-render-props)| 🔄 |
 
 
 
