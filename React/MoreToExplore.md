@@ -31,6 +31,7 @@
 | [Prop Getter By Kent](https://kentcdodds.com/blog/how-to-give-rendering-control-to-users-with-prop-getters)| 🔄 |
 | [Prop Collection By Kent's Doods on Egghead](https://egghead.io/lessons/react-use-prop-collections-with-render-props)| 🔄 |
 | [Prop Getter By Kent's Doods on Egghead](https://egghead.io/lessons/react-use-prop-getters-with-render-props)| 🔄 |
+| [Prop Collection](https://github.com/manjula-dube/react-advanced-patterns/tree/master/prop-collection)| 🔄 |
 
 
 
