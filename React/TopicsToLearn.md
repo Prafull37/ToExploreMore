@@ -10,6 +10,7 @@
 - [X] Closure
 - [X] async-await
 - [ ] Debounce and Throttling 
+- [ ] Event Loop [https://javascriptbit.com/what-is-the-event-loop-in-javascript/]
 
 
 
