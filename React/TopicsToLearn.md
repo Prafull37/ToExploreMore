@@ -15,6 +15,12 @@
 - [ ] currying
 - [ ] prototype and constructor
 - [ ] event delegation
+- [ ] session storage
+- [ ] cookie
+- [ ] cache
+- [ ] localstorage
+- [ ] authentication
+- [ ] Object
 
 
 
