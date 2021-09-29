@@ -33,7 +33,11 @@
 | [Prop Getter By Kent's Doods on Egghead](https://egghead.io/lessons/react-use-prop-getters-with-render-props)| 🔄 |
 | [Prop Collection](https://github.com/manjula-dube/react-advanced-patterns/tree/master/prop-collection)| 🔄 |
 | [Advanced Patterns in React By Manjula Dube](https://www.youtube.com/watch?v=lvndTUDNspw)| 🔄 |
-
+| [Render props better than HOC](https://medium.com/@mjackson/use-a-render-prop-50de598f11ce)| 🔄 |
+| [State Reducer code by Kent](https://medium.com/@mjackson/use-a-render-prop-50de598f11ce)| 🔄 |
+| [State Reducer with Class by Kent](https://kentcdodds.com/blog/the-state-reducer-pattern)| 🔄 |
+| [State Reducer with Hooks by Kent](https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks| ❌ |
+| [Understand Headless Component](https://www.merrickchristensen.com/articles/headless-user-interface-components/)| 🔄 |
 
 
 ## Hooks
