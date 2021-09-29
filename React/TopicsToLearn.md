@@ -1,6 +1,7 @@
 -[ ]
 
 - [ ] time-slicing
+- [ ] mixins
 - [X] suspense
 - [X] lifting state up
 - [X] Colocating 
@@ -11,6 +12,10 @@
 - [X] async-await
 - [ ] Debounce and Throttling 
 - [ ] Event Loop [https://javascriptbit.com/what-is-the-event-loop-in-javascript/]
+- [ ] currying
+- [ ] prototype and constructor
+- [ ] event delegation
+
 
 
 
