@@ -36,7 +36,7 @@
 | [Render props better than HOC](https://medium.com/@mjackson/use-a-render-prop-50de598f11ce)| 🔄 |
 | [State Reducer code by Kent](https://medium.com/@mjackson/use-a-render-prop-50de598f11ce)| 🔄 |
 | [State Reducer with Class by Kent](https://kentcdodds.com/blog/the-state-reducer-pattern)| 🔄 |
-| [State Reducer with Hooks by Kent](https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks| ❌ |
+| [State Reducer with Hooks by Kent](https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks)| ❌ |
 | [Understand Headless Component](https://www.merrickchristensen.com/articles/headless-user-interface-components/)| 🔄 |
 
 
