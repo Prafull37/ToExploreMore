@@ -24,3 +24,10 @@
      A function used by user to pass all the user-defined props without overriding any of the default props behaviour.
      
 
+### 6.) State Reducer
+     Handle the library use-case along with user usecase for same action which is unbreakable.
+     
+ 
+### 7.) Control Props 
+    Control props is similar to controlled component. Provide ability of your component to handle value and eventhandler if user want.Also support an additional; use case  of handling by itself through uncontrolled components using state reducer
+     
