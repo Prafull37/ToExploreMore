@@ -39,7 +39,7 @@
 | [State Reducer with Hooks by Kent](https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks)| ❌ |
 | [Understand Headless Component](https://www.merrickchristensen.com/articles/headless-user-interface-components/)| 🔄 |
 | [Async Redux Saga](https://egghead.io/lessons/redux-handle-side-effects-with-redux-saga-generator-functions)| 🔄 |
-
+|[Take this](https://www.youtube.com/playlist?list=PLMV09mSPNaQlWvqEwF6TfHM-CVM6lXv39)| |
 
 ## Hooks
 
