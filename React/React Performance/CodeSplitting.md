@@ -61,7 +61,12 @@
   
   ### 3. [Webpack Magic Comments](https://webpack.js.org/api/module-methods/#magic-comments)
   Here we are not taking all magic comments. `webpackPrefatch:true/false` <br/>
-  This comment preload the chunk in the cache  and produce it whenever required
+  This comment prefetch the chunk in the cache  and produce it whenever required.<br/>
+  When the browser is free and not perfroming any kind of task then using this we are asking browser to load all the scripts related to the Chunk<br/>
+  You can see the below code snippet n your head after adding this comment.
+  ```
+  <link rel="prefetch" as="script" href="/static/js/1.chunk.js">
+  ```
   [webpackPrefatch](https://webpack.js.org/guides/code-splitting/#prefetchingpreloading-modules)
   
   In order to see the difference disable `cache` in the network Tab
@@ -69,3 +74,5 @@
   ```
    const lazyLoad =()=> import(/*webpackPrefetch:true,webpackChunkName:"Globe"*/"./A.js");
   ```
+  
+  
