@@ -21,6 +21,17 @@
 - [ ] localstorage
 - [ ] authentication
 - [ ] Object
+- [ ] [Workers](https://www.html5rocks.com/en/tutorials/workers/basics/)
+- [ ] Sharable Workers
+- [ ] Media API
+- [ ] Video API
+- [ ] Audio API
+- [ ] Blob API
+- [ ] Transferrable Object
+- [ ] Handling File / Reading a file /Uplaoding a file
+- [ ] Load Video in Chunks like Youtube
+- [ ] Event Delegation
+- [ ] 
 
 
 
