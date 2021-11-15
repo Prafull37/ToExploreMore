@@ -13,4 +13,4 @@ Using useMemo we can memoize any function written inside of functional component
 Since Javascript is Single threaded, we can use  web workers to enhnace the performance. Webworkers run seperately from the main script and both communication occurs <br/>
 by a async way.
 
-In React we can make use of `[workerize](https://www.npmjs.com/package/workerize)` and `[workerize-loader](https://github.com/developit/workerize-loader)` for the webpack.
+In React we can make use of [workerize](https://www.npmjs.com/package/workerize) and [workerize-loader](https://github.com/developit/workerize-loader) for the webpack.
