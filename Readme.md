@@ -5,3 +5,4 @@
 5. [React Performance](https://github.com/Prafull37/ToExploreMore/blob/main/React/ReactPerformance.md)
 6. [Web Performance](https://github.com/Prafull37/ToExploreMore/blob/main/Performance/PerformanceRes.md)
 7. [33 js Concepts](https://github.com/leonardomso/33-js-concepts#31-design-patterns)
+8. [APIs List to Know](https://github.com/Prafull37/ToExploreMore/blob/main/APIs/list.md)
