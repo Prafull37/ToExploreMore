@@ -47,8 +47,23 @@
        
        
        
-Can we use strict mode in block like if and else?
-How to enable strict mode in modules?
-How to enable strict mode in Class?
+  ### 6.) <ins>Can we use strict mode in block like if and else? </ins>
+  NO, we cannot use "use strict" inside any block/blockscope(if-else).
+       
+  ### 7.) <ins>How to enable strict mode in modules? </ins>
+  Modules always run in "strict mode".So no need to enable it explicitly.
+       
+  ### 8.) <ins>How to enable strict mode in Class? </ins>
+  Classes always run in "strict mode".So no need to enable it explicitly.
 
-Examples in strict mode
+
+  ## <ins>Examples of "strict mode" </ins>
+  
+  #### 1.) Catching some silent errors
+  
+  - **Creation of global variable **
+  - ****
+  #### 2.) Futuristic Restrictions
+  #### 3.) Example for optimizations/performance.
+  
+  
