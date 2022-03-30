@@ -61,9 +61,15 @@
   
   #### 1.) Catching some silent errors
   
-  - **Creation of global variable **
+  - **Creation of global variable/Using undeclared variables **
+    1.)  
   - ****
   #### 2.) Futuristic Restrictions
   #### 3.) Example for optimizations/performance.
+  
+  Behaviour of this
+  
+ 
+ Questions
   
   
