@@ -216,7 +216,9 @@
   [Web Platform](https://webplatform.github.io/docs/javascript/future_reserved_words/)
   
   #### 3.) Example for optimizations/performance.
-  
+  [Why performance in strict mode is 10X Faster](https://stackoverflow.com/a/38411722/11769257)
+  [Is strict mode more performant](https://stackoverflow.com/a/30163627/11769257)
+  *note: working on it *
   
 # <ins>Behaviour of this in Strict Mode</ins>
   In  functional Execution Context the Value of this defined upon how this defined on how function is called.But without <code>"use strict"</code> the value of this will not set by this and default value of this will be  browser's Window Object <code>window</code> .
