@@ -219,7 +219,23 @@
   
   
 # <ins>Behaviour of this in Strict Mode</ins>
-  
+  In  functional Execution Context the Value of this defined upon how this defined on how function is called.But without <code>"use strict"</code> the value of this will not set by this and default value of this will be  browser's Window Object <code>window</code> .
+      <code>
+        function f1(){
+          return this;  
+        }
+        
+        f1() === window // true
+      
+         function f2(){
+          "use strict"
+          return this;  
+        }
+        
+        f1() === window // false
+        f1() //returns undefined
+        
+      </code>
  
 
 # <ins>Questions</ins>
@@ -254,5 +270,5 @@
   
 ### Pending
   
-  |issue no| Issue | Status|
-  |1| Reason for BrainHack question 2 . Why it will throw Syntax Error | Not-Started |
+  | issue no | Issue | Status | 
+  | 1 | Reason for BrainHack question 2 . Why it will throw Syntax Error | Not-Started |
