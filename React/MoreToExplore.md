@@ -42,7 +42,8 @@
 |[Take this](https://www.youtube.com/playlist?list=PLMV09mSPNaQlWvqEwF6TfHM-CVM6lXv39)| |
 | [Rendering without Lumping Bits-Jake Archibalds](https://www.youtube.com/watch?v=3bc71-xzoWA)| ❌ |
 | [Fix the Slow Renders-Kent C.Doods](https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render)| 🔄 |
-
+| [HOC and why we use it](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e)| ❌ |
+| [Render Hijacking](https://www.callstack.com/blog/sweet-render-hijacking-with-react)| ❌ |
 
 ## Hooks
 
