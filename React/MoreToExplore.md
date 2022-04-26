@@ -44,7 +44,7 @@
 | [Fix the Slow Renders-Kent C.Doods](https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render)| 🔄 |
 | [HOC and why we use it](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e)| ❌ |
 | [Render Hijacking](https://www.callstack.com/blog/sweet-render-hijacking-with-react)| ❌ |
-
+| [React Rendering Secrets](https://indepth.dev/posts/1008/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react) | ❌|
 ## Hooks
 
 | Title | Status | Hook |Remarks |
