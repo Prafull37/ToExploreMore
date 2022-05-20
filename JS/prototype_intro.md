@@ -62,4 +62,4 @@ When we try to search for <code>cityName</code> from <code>person</code>.It goes
 4.) Does arrow function does have <code>prototype</code> ?
 5.) Can we use <code> new </code> on arrow function ? 
 6.) [Use it](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/proto)
-7.) this is not super ? <code>obj.t=fun t(){this.t()}</code> <code>this.__proto__.ask()</code> explain using this and this is shadowing
+7.) this is not super ? <code>obj.t=fun t(){this.t()}</code> <code>this.__proto__.ask()</code> explain using this and this is <code>shadowing prototypes</code> --> after function constructor and this?
