@@ -1,7 +1,7 @@
 # 1.) Strict Mode and 'use strict'.
 
   ### 1.) <ins> What is Strict Mode in Javascript ? </ins>
-  Strict Mode in Javascript , is a way to opt in to a strict version of Javascript.It helps us to write more secure and error prone JS code.And It is introduced in ES5.
+  Strict Mode in Javascript , is a way to opt in to a strict version of Javascript.It helps us to write more secure and error less JS code.And It is introduced in ES5.
 
   As we know JS has backward compatibility and due to this there are some mistakes which stayed permananently.
   By introduction of strict mode , we have options to choose strict version. 
