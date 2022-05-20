@@ -56,7 +56,7 @@ When we try to search for <code>cityName</code> from <code>person</code>.It goes
 
 
 ### To-DO
-1.) What is the difference between java class and javascript class (show changing on prototype, impacts linked creation) ?  --> last
+1.) What is the difference between java class and javascript class and inheritance(show changing on prototype, impacts linked creation) ?  --> last
 2.) What happen with <code>this</code> when we try to access from somewhere? 
 3.) Prototypes on function or with new Consturctor ? --> upcoming
 4.) Does arrow function does have <code>prototype</code> ?
