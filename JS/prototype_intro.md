@@ -63,3 +63,6 @@ When we try to search for <code>cityName</code> from <code>person</code>.It goes
 5.) Can we use <code> new </code> on arrow function ? 
 6.) [Use it](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/proto)
 7.) this is not super ? <code>obj.t=fun t(){this.t()}</code> <code>this.__proto__.ask()</code> explain using this and this is <code>shadowing prototypes</code> and why it is being used? --> after function constructor and this?
+8.) See Ducktyping in Js, and figure out if we can make use here?
+9.) Mixins ?
+10.) Object properties and loops....  -> next chapter
