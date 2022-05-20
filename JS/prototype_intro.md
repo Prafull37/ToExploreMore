@@ -45,10 +45,15 @@ It will be <code>"Seoul"</code>. But How ? Any idea.
 So when we access any property on an object, JS Engine first try to look within that.If the proprerty is not found , then it moves towards the linked object. and so on , until unless it reaches to null. If there is no property, it return undefined.
 Let's understand using below toodler's creativity.
 
+![IMG-20220521-WA0000](https://user-images.githubusercontent.com/30550365/169594749-5329d64d-5d78-44d7-a232-84d0505fc8d9.jpg)
+
+In the above image, When we type <code> person.x</code>. Then JS search it within <code> person </code>  , if that  is not available.Then It moves towards <code>city</code> with the help of Dunder proto. Then it searches there , if the property is not available then it moves towards <code>object</code> and at last <code> null</code> .
+
+<b>Do you know every object is inherited from Object by default and that Object has  prototype of null ? </b>
 
 When we try to search for <code>cityName</code> from <code>person</code>.It goes to <code>city</code> object and returns the value.
 
-###<ins>__proto__(Dunder Proto)</ins>
+### <ins>"__proto__"(Dunder Proto)</ins>
 <code>"__proto__"</code> is a getter and setter for the prototypical inheritance.It is used to acccess <code>[[Prototype]]</code>. It is been discouraged to use it, but due to legacy/backward compatibility  it exists.We can use <code>Object.getPrototypeOf()</code> and <code>Object.setPrototypeOf()</code>.
 
 //function constructor
