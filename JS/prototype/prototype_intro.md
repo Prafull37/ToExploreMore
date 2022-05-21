@@ -25,15 +25,15 @@ This brings us to new concept that is called <code>prototype chain</code> . So L
 
 ### <ins>Protoype Chain</ins>
 Let's Assume the below example
-<code>
-        let city={
-            cityName:"Seoul"
-        }
-        let person={
-            personName:"Roh"
-            __proto__:city
-        }
- </code>
+
+    let city={
+        cityName:"Seoul"
+    }
+    let person={
+        personName:"Roh"
+        __proto__:city
+    }
+
 Here, using Dunder proto(<code>\_\_proto\_\_</code>) we prototypically linked/inherit city to the person. So now if we do <code>person.cityName</code>, what do you think what will be the answer.
 
 Guess.... 
