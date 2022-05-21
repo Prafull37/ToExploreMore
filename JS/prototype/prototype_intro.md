@@ -135,7 +135,7 @@ Now I want you to guess !!!
 2.) What will be the cityName for martha?
 3.) How may key value pairs are there in <code> royDetails </code> ?
 
-Take 5 min of your time ... Google it and then get back to it ... , 
+Take 5 min of your time ... Google it and then get back to it ... , <br/>
 ..........
 
 ..........
