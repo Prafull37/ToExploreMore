@@ -22,7 +22,7 @@ If we spread <code>teacherInSchool</code> in browser <code> console</code> , It 
 
 <figure >
 <img width="506" alt="Prototype of a object created with constructor" src="https://user-images.githubusercontent.com/30550365/170083900-0aee5567-21e3-46eb-a68e-678f2d12dcad.png" style="max-width: 100%;justify-content:center;">
-  <figcaption > <b><i>Img-1: Prototype of a Object from a Constructor<i> </b></figcaption>
+  <figcaption > <b><i>Img-1: Prototype of a Object from a Constructor</i> </b></figcaption>
  </figure>
   </p>
 <br/>
@@ -59,7 +59,7 @@ Have you find it ??? If not let's see...
 
 <figure >
 <img width="506" alt="Screenshot 2022-05-24 at 9 35 49 PM" src="https://user-images.githubusercontent.com/30550365/170101470-34962a51-6c5c-4cc3-bf7d-3e369517fb2c.png">
-  <figcaption > <b><i>Img-4: Prototype of Function<i> </b></figcaption>
+  <figcaption > <b><i>Img-4: Prototype of Function</i> </b></figcaption>
  </figure>
   </p>
 <br/>
