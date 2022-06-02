@@ -36,15 +36,16 @@ Let's See ...
 Before Explainig this let me start with what happen when we create a Function.
 
 So, when we create a function ,JS assign a hidden property called <code>prototype</code> to that function. <code>prototype</code>  holds an Object of its type (i.e; type of <code> function</code>) which has <code> constructor</code> and <code>[[Prototype]]</code> for the given function. The value of <code>constructor</code> always points to that given function, Until unless we change the prototype.<br/>
-//Image for prototype without new 
 <br/>
 So you can consider as an <code>prototype</code> works as an road between <code>function</code> and <code>object</code> and <code>constructor</code> is used for the vice versa.<br/>
-//Drawing of Function and Object 
+ ![IMG_20220602_222631](https://user-images.githubusercontent.com/30550365/171684084-53b59781-eb3e-4165-a9fc-fbaceaad9cab.jpg)
+
   
 This is first step. It happens by default .Even when we do not assign anything to <code>prototype</code> explicitly, JS takes cares for you.
  
 The next is constructor invocation...
   So when we do <code> new functionName()</code>. JS creats a new Object and assign the Object linked to <code> F.prototype</code> as an <code>[[Prototype]]</code> of the object.
+  ![IMG_20220602_222650](https://user-images.githubusercontent.com/30550365/171684431-651c37da-04a0-486a-ab32-15441380e82f.jpg)
   
   So In our case , when JS reaches at the end of line 4. it creates a <code>prototype</code> Object to that function , And at line 5. It assign that Object as an <code>[[Prototype]]</code> of <code>teacherInClass</code>.
   
