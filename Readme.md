@@ -6,3 +6,4 @@
 6. [Web Performance](https://github.com/Prafull37/ToExploreMore/blob/main/Performance/PerformanceRes.md)
 7. [33 js Concepts](https://github.com/leonardomso/33-js-concepts#31-design-patterns)
 8. [APIs List to Know](https://github.com/Prafull37/ToExploreMore/blob/main/APIs/list.md)
+9. [Frontend Developer RoadMap](https://github.com/Prafull37/ToExploreMore/files/12251040/f173QH9W5HATBAUB3KZxBV.pdf)
