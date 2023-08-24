@@ -1,9 +1,226 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T07:13:52.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" version="21.6.9" etag="b7YoOlYV6l0I6RzoZl69" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T14:54:25.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="Sgy-BLrFYCGuUOlXoIxf" version="21.6.9" type="github">
   <diagram name="Page-1" id="oHWxYNUxUqxVpFzZRn7w">
-    <mxGraphModel>
+    <mxGraphModel dx="875" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="99sa6xklKETw-BbFXHXh-1" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="355" y="785" as="sourcePoint" />
+            <mxPoint x="325" y="-240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-3" value="HTTP 0.9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="99sa6xklKETw-BbFXHXh-1">
+          <mxGeometry x="0.8846" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-13" value="HTTP 1.0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="99sa6xklKETw-BbFXHXh-1">
+          <mxGeometry x="0.6779" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-26" value="HTTP 1.1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="99sa6xklKETw-BbFXHXh-1">
+          <mxGeometry x="-0.1162" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-46" value="HTTP 2.0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="99sa6xklKETw-BbFXHXh-1">
+          <mxGeometry x="-0.6918" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-2" value="HTTP Evolution" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="99sa6xklKETw-BbFXHXh-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="-180" as="sourcePoint" />
+            <mxPoint x="480" y="-180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="-180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="99sa6xklKETw-BbFXHXh-5" target="99sa6xklKETw-BbFXHXh-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="-180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-5" value="&lt;div&gt;1.) Only GET Request&lt;/div&gt;&lt;div&gt;2.) No Error Mechanims&lt;/div&gt;&lt;div&gt;3.) Can request with relative path&lt;/div&gt;&lt;div&gt;4.) Every time connection needs to be established&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-220" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="99sa6xklKETw-BbFXHXh-7" target="99sa6xklKETw-BbFXHXh-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="-180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-7" value="get /my-data.html" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-9" value="Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="825" y="-242" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-11" value="&lt;div&gt;&amp;lt;html&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;/html&amp;gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-212" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-12" value="Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="-242" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="99sa6xklKETw-BbFXHXh-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="-80" as="sourcePoint" />
+            <mxPoint x="480" y="-80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="-80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="99sa6xklKETw-BbFXHXh-15" target="99sa6xklKETw-BbFXHXh-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="-50" />
+              <mxPoint x="760" y="-55" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-15" value="&lt;div&gt;1.) Concept of Header is introduced.&lt;/div&gt;&lt;div&gt;2.) Browser sends what kind of connection it is&lt;/div&gt;&lt;div&gt;3.) Started getting response code &lt;br&gt;&lt;/div&gt;&lt;div&gt;4.) GET,POST methods are added&lt;/div&gt;&lt;div&gt;5.) Content-Type header is added in response because of that we could any file other than html&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-120" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="99sa6xklKETw-BbFXHXh-16" target="99sa6xklKETw-BbFXHXh-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-16" value="&lt;pre data-signature=&quot;eEAj/wopNgDbi0C3PqZAxSoGrTuY34WGQWQpwWFZ1rU=&quot; class=&quot;brush: http notranslate&quot;&gt;&lt;code&gt;GET &lt;span class=&quot;token request-target url&quot;&gt;&lt;span class=&quot;token path&quot;&gt;&lt;span class=&quot;token path-separator&quot;&gt;/&lt;/span&gt;mypage.html&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token method property&quot;&gt;  HTTP/1.0&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;User-Agent&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;NCSA_Mosaic/2.0 (Windows 3.1)&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-110" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-17" value="&lt;pre data-signature=&quot;eEAj/wopNgDbi0C3PqZAxSoGrTuY34WGQWQpwWFZ1rU=&quot; class=&quot;brush: http notranslate&quot;&gt;&lt;code&gt;200 OK&lt;br/&gt; &lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Date&lt;/span&gt;&lt;span class=&quot;token header&quot;&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Server&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;CERN/3.0 libwww/2.17&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Content-Type&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;text/html&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token text-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;HTML&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;A page with an image&lt;br/&gt;  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;IMG&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;SRC&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;/myimage.gif&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;HTML&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="-100" width="365" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.005;entryY=0.671;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="99sa6xklKETw-BbFXHXh-19" target="99sa6xklKETw-BbFXHXh-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="99sa6xklKETw-BbFXHXh-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1270" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-19" value="&lt;pre data-signature=&quot;lsLDHcI8l+lW3yj+W76NtVj27h+K6tVQp449+QNTlJY=&quot; class=&quot;brush: http notranslate&quot;&gt;&lt;code&gt;GET &lt;span class=&quot;token request-target url&quot;&gt;&lt;span class=&quot;token path&quot;&gt;&lt;span class=&quot;token path-separator&quot;&gt;/&lt;/span&gt;myimage.gif HTTP/1.0&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token request-line&quot;&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;User-Agent&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;NCSA_Mosaic/2.0 (Windows 3.1)&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="20" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-22" value="Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="895" y="-140" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-23" value="Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="-140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-25" value="&lt;pre data-signature=&quot;lsLDHcI8l+lW3yj+W76NtVj27h+K6tVQp449+QNTlJY=&quot; class=&quot;brush: http notranslate&quot;&gt;&lt;code&gt;200 OK&lt;br/&gt; &lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Date&lt;/span&gt;&lt;span class=&quot;token header&quot;&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Server&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;CERN/3.0 libwww/2.17&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Content-Type&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;text/gif&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;(image content)&lt;/code&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1267.5" y="20" width="365" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="99sa6xklKETw-BbFXHXh-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="330" as="sourcePoint" />
+            <mxPoint x="490" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="99sa6xklKETw-BbFXHXh-28" target="99sa6xklKETw-BbFXHXh-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1182" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="930" y="340" />
+              <mxPoint x="930" y="321" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="99sa6xklKETw-BbFXHXh-28" target="99sa6xklKETw-BbFXHXh-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-28" value="&lt;div&gt;1.) Once connection it can be reused&lt;/div&gt;&lt;div&gt;2.) Pipeline was added so browser can request before any response comes back&lt;/div&gt;&lt;div&gt;3.)&amp;nbsp; Chunk response supported&lt;/div&gt;&lt;div&gt;4.) Cache control for assetss&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.) It is defined to send host name so it will be easy for server hosting multiple application to route and return data&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="270" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-30" value="Server" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="-90" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-31" value="xyz.html" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1835" y="-82" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;" edge="1" parent="1" source="99sa6xklKETw-BbFXHXh-37" target="99sa6xklKETw-BbFXHXh-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-37" value="XYZ.HML" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="-110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-32" value="xyz.img" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1835" y="-30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-33" value="xyz.css" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.067;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="99sa6xklKETw-BbFXHXh-38" target="99sa6xklKETw-BbFXHXh-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-38" value="XYZ.HML" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1805" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;" edge="1" parent="1" source="99sa6xklKETw-BbFXHXh-39" target="99sa6xklKETw-BbFXHXh-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-39" value="XYZ.HML" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-41" value="Connection 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2025" y="-102" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-44" value="Connection 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="-50" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-45" value="Connection 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="20" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-47" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="99sa6xklKETw-BbFXHXh-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="630" as="sourcePoint" />
+            <mxPoint x="500" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="99sa6xklKETw-BbFXHXh-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-48" value="&lt;div&gt;1.) Browser can make Parallel Request (5-6)&lt;/div&gt;&lt;div&gt;2.) Server sent Cache push &quot;Set-cookie header&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="590" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="99sa6xklKETw-BbFXHXh-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1780" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-50" value="&lt;pre data-signature=&quot;Ou3uRHZw1gJdbQhthu+xeKn/YdHGmstNnXmFPMwE0Qo=&quot; class=&quot;brush: http notranslate&quot;&gt;&lt;code&gt;&lt;span class=&quot;token request-target url&quot;&gt;&lt;/span&gt;&lt;span class=&quot;token method property&quot;&gt;GET&lt;/span&gt;&lt;span class=&quot;token request-line&quot;&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Host&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;developer.mozilla.org&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;User-Agent&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:50.0) Gecko/20100101 Firefox/50.0&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Accept&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Accept-Language&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;en-US,en;q=0.5&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Accept-Encoding&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;gzip, deflate, br&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Referer&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;https://developer.mozilla.org/en-US/docs/Glossary/Simple_header&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;/code&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="290" width="620" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-52" value="&lt;pre data-signature=&quot;Ou3uRHZw1gJdbQhthu+xeKn/YdHGmstNnXmFPMwE0Qo=&quot; class=&quot;brush: http notranslate&quot;&gt;&lt;code&gt;200 OK&lt;br/&gt; &lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Connection&lt;/span&gt;&lt;span class=&quot;token header&quot;&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Content-Encoding&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;gzip&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Content-Type&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;text/html; charset=utf-8&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Date&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;Wed, 20 Jul 2016 10:55:30 GMT&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Etag&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;&quot;547fa7e369ef56031dd3bff2ace9fc0832eb251a&quot;&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Keep-Alive&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;timeout=5, max=1000&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Last-Modified&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;Tue, 19 Jul 2016 00:59:33 GMT&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Server&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;Apache&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Transfer-Encoding&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;chunked&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Vary&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;Cookie, Accept-Encoding&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;/code&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="270" width="410" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="99sa6xklKETw-BbFXHXh-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1800" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-54" value="&lt;pre data-signature=&quot;Ou3uRHZw1gJdbQhthu+xeKn/YdHGmstNnXmFPMwE0Qo=&quot; class=&quot;brush: http notranslate&quot;&gt;&lt;code&gt;GET&lt;/code&gt;&lt;code&gt;  &lt;span class=&quot;token request-target url&quot;&gt;&lt;span class=&quot;token path&quot;&gt;&lt;span class=&quot;token path-separator&quot;&gt;/&lt;/span&gt;static&lt;span class=&quot;token path-separator&quot;&gt;/&lt;/span&gt;img&lt;span class=&quot;token path-separator&quot;&gt;/&lt;/span&gt;header-background.png&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token request-line&quot;&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Host&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;developer.mozilla.org&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;User-Agent&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:50.0) Gecko/20100101 Firefox/50.0&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Accept&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;*/*&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Accept-Language&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;en-US,en;q=0.5&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Accept-Encoding&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;gzip, deflate, br&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Referer&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;https://developer.mozilla.org/en-US/docs/Glossary/Simple_header&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="480" width="620" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-55" value="&lt;pre data-signature=&quot;Ou3uRHZw1gJdbQhthu+xeKn/YdHGmstNnXmFPMwE0Qo=&quot; class=&quot;brush: http notranslate&quot;&gt;&lt;code&gt;200 OK&lt;br/&gt; &lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Age&lt;/span&gt;&lt;span class=&quot;token header&quot;&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Cache-Control&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;public, max-age=315360000&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Connection&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;keep-alive&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Content-Length&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;3077&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Content-Type&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;image/png&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Date&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;Thu, 31 Mar 2016 13:34:46 GMT&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Last-Modified&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;Wed, 21 Oct 2015 18:27:50 GMT&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;token header&quot;&gt;&lt;span class=&quot;token header-name keyword&quot;&gt;Server&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token header-value&quot;&gt;Apache&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="460" width="410" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="99sa6xklKETw-BbFXHXh-58" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;SERVER SENT EVENT&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.) Based on HTTP protocol&lt;/div&gt;&lt;div&gt;2.) Only Server can send data&lt;/div&gt;&lt;div&gt;3.) only text data&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;let event = new EventSource(&quot;some-url&quot;)&lt;/div&gt;&lt;div&gt;event.onmessage=&lt;/div&gt;&lt;div&gt;event.onerror=&lt;/div&gt;&lt;div&gt;event.onclose&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="970" width="910" height="360" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
