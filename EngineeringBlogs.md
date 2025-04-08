@@ -1,0 +1,6 @@
+1. [Instagram_Blog](https://about.instagram.com/blog/engineering)
+2. [Instagram_Blog2](https://instagram-engineering.com/)
+3. [Instagram Archives](https://engineering.fb.com/tag/instagram)
+4. [Agoda](https://medium.com/agoda-engineering)
+5. [Airbnb](https://medium.com/airbnb-engineering)
+6. [Expedia](https://medium.com/expedia-group-tech)
